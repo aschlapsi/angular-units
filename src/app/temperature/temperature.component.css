@@ -1,0 +1,13 @@
+#temperature {
+  display: flex;
+  flex-direction: row;
+  width: 50vw;
+}
+
+#temperature > * {
+  width: 30%
+}
+
+.measurement > * {
+  width: 100%;
+}
